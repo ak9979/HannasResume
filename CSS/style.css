@@ -20,6 +20,10 @@ body {
   min-height: 100vh;
 }
 
+.catlogo {
+flex: 0 0 200px;
+  height : 100vh;
+}
 
 .photo-wrapper {
   position: sticky;
