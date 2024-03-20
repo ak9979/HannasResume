@@ -53,6 +53,10 @@ header {
   margin-bottom: 20px;
   position: relative;
 }
+.title-hannas-resume {
+  color: powderblue;
+  
+}
 
 .header-image {
   width: 50px;
