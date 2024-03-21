@@ -46,7 +46,7 @@ flex: 0 0 200px;
   margin-bottom: 10px;
 }
 
-header {
+.header {
   background-color: #f4b1eb;
   padding: 20px;
   text-align: center;
@@ -63,12 +63,14 @@ header {
   position: absolute;
   left: 1px;
   top: 50%;
+  transform: translateY(-50%);
 }
 
 .header-image: last-child {
   position: absolute;
   right: 1px;
   top: 50%;
+  transform: translateY(-50%);
 }
 
 header h1 {
