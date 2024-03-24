@@ -59,9 +59,11 @@ header {
 } 
 
 .header-image {
-  width: 50px;
+  width: 250px;
   height: auto;
   margin-top: 10px;
+  border: 20px solid rgb(204, 180, 213);
+  border-radius: 20pc;
 
 .header-image: first-child {
   position: absolute;
